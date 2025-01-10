@@ -1,14 +1,10 @@
-# Vue 3 + TypeScript + Vite + Nuxt UI
+# Vue 3 + Vite + Nuxt UI 3
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This template should help get you started developing with Vue 3, TypeScript, Vite and [Nuxt UI v3](https://ui3.nuxt.dev).
 
-It also uses [Nuxt UI v3](https://ui3.nuxt.dev) for Vue.
+Online demo: https://codesandbox.io/p/devbox/nuxt-ui3-vue-4h5gqn
 
-Online demo: https://codesandbox.io/p/github/atinux/nuxt-ui3-vue
-
-[![Nuxt UI 3 with Vue & VIte](https://github.com/user-attachments/assets/c3f27303-a891-4a7f-89f1-8b9a3e5d1379)](https://codesandbox.io/p/github/atinux/nuxt-ui3-vue)
-
-
+[![Nuxt UI 3 with Vue & Vite](https://github.com/user-attachments/assets/c3f27303-a891-4a7f-89f1-8b9a3e5d1379)](https://codesandbox.io/p/devbox/nuxt-ui3-vue-4h5gqn)
 
 ## Recommended IDE Setup
 
