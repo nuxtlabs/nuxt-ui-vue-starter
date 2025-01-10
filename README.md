@@ -6,6 +6,10 @@ It also uses [Nuxt UI v3](https://ui3.nuxt.dev) for Vue.
 
 Online demo: https://codesandbox.io/p/github/atinux/nuxt-ui3-vue
 
+[![Nuxt UI 3 with Vue & VIte](https://github.com/user-attachments/assets/c3f27303-a891-4a7f-89f1-8b9a3e5d1379)](https://codesandbox.io/p/github/atinux/nuxt-ui3-vue)
+
+
+
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
