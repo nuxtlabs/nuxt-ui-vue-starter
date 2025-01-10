@@ -1,0 +1,25 @@
+{
+  // These tasks will run in order when initializing your CodeSandbox project.
+  "setupTasks": [
+    {
+      "name": "Install Dependencies",
+      "command": "pnpm install --force"
+    }
+  ],
+
+  // These tasks can be run from CodeSandbox. Running one will open a log in the app.
+  "tasks": {
+    "pnpm run dev": {
+      "name": "Vite Dev",
+      "command": "pnpm run dev",
+      "runAtStart": true,
+      "preview": {
+        "port": 5173
+      }
+    },
+    "install": {
+      "name": "install dependencies",
+      "command": "pnpm install"
+    }
+  }
+}
