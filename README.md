@@ -2,9 +2,9 @@
 
 This template should help get you started developing with Vue 3, TypeScript, Vite and [Nuxt UI v3](https://ui3.nuxt.dev).
 
-Online demo: https://codesandbox.io/p/devbox/nuxt-ui3-vue-4h5gqn
+Online demo: https://nuxt-ui-vue-starter.pages.dev
 
-[![Nuxt UI 3 with Vue & Vite](https://github.com/user-attachments/assets/c3f27303-a891-4a7f-89f1-8b9a3e5d1379)](https://codesandbox.io/p/devbox/nuxt-ui3-vue-4h5gqn)
+![nuxt ui with vue 3 only](https://github.com/user-attachments/assets/a81af231-b2aa-4753-86c1-2c8802196a4b)
 
 ## Recommended IDE Setup
 
