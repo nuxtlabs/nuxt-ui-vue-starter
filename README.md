@@ -4,7 +4,7 @@ This template should help get you started developing with Vue 3, TypeScript, Vit
 
 Online demo: https://nuxt-ui-vue-starter.pages.dev
 
-![nuxt ui with vue 3 only](https://github.com/user-attachments/assets/a81af231-b2aa-4753-86c1-2c8802196a4b)
+[![nuxt ui with vue 3 only](https://github.com/user-attachments/assets/a81af231-b2aa-4753-86c1-2c8802196a4b)](https://nuxt-ui-vue-starter.pages.dev)
 
 ## Recommended IDE Setup
 
