@@ -2,14 +2,14 @@
   <UApp>
     <div class="flex flex-col items-center justify-center gap-4 h-screen">
       <h1 class="font-bold text-2xl text-(--ui-primary)">
-        Nuxt UI v3 - Vue Playground
+        Nuxt UI - Vue Starter
       </h1>
 
       <div class="flex items-center gap-2">
         <UButton
           label="Documentation"
           icon="i-lucide-square-play"
-          to="https://ui3.nuxt.dev/getting-started/installation/vue"
+          to="https://ui.nuxt.com/getting-started/installation/vue"
           target="_blank"
         />
 

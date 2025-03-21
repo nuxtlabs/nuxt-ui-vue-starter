@@ -1,12 +1,14 @@
 {
-  "name": "nuxt-ui3-vue",
+  "name": "nuxt-ui-vue-starter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "lint": "eslint --ext .js,.vue src",
+    "typecheck": "vue-tsc -p ./tsconfig.app.json"
   },
   "dependencies": {
     "@nuxt/ui": "^3.0.0",
@@ -15,7 +17,15 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.1",
+    "eslint": "^9.22.0",
+    "eslint-plugin-vue": "^10.0.0",
     "typescript": "^5.8.2",
-    "vite": "^6.2.1"
-  }
+    "typescript-eslint": "^8.26.1",
+    "vite": "^6.2.1",
+    "vue-tsc": "^2.2.2"
+  },
+  "resolutions": {
+    "vue-tsc": "2.2.2"
+  },
+  "packageManager": "pnpm@10.6.2"
 }

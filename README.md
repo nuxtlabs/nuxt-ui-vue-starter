@@ -1,6 +1,6 @@
 # Vue 3 + Vite + Nuxt UI 3
 
-This template should help get you started developing with Vue 3, TypeScript, Vite and [Nuxt UI v3](https://ui3.nuxt.dev).
+This template should help get you started developing with Vue 3, TypeScript, Vite and [Nuxt UI](https://ui.nuxt.com).
 
 Online demo: https://nuxt-ui-vue-starter.pages.dev
 
