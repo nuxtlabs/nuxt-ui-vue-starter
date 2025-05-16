@@ -11,21 +11,21 @@
     "typecheck": "vue-tsc -p ./tsconfig.app.json"
   },
   "dependencies": {
-    "@nuxt/ui": "^3.1.1",
-    "vue": "^3.5.13",
+    "@nuxt/ui": "^3.1.2",
+    "vue": "^3.5.14",
     "vue-router": "^4.5.1"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.2.3",
-    "eslint": "^9.26.0",
+    "@vitejs/plugin-vue": "^5.2.4",
+    "eslint": "^9.27.0",
     "eslint-plugin-vue": "^10.1.0",
     "typescript": "^5.8.3",
-    "typescript-eslint": "^8.31.1",
+    "typescript-eslint": "^8.32.1",
     "vite": "^6.3.5",
     "vue-tsc": "^2.2.2"
   },
   "resolutions": {
     "vue-tsc": "2.2.2"
   },
-  "packageManager": "pnpm@10.10.0"
+  "packageManager": "pnpm@10.11.0"
 }
