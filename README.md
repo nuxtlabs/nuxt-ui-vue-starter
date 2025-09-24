@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This template is deprecated, the new template is now on https://github.com/nuxt-ui-templates/starter-vue
+ 
 # Vue 3 + Vite + Nuxt UI 3
 
 This template should help get you started developing with Vue 3, TypeScript, Vite and [Nuxt UI](https://ui.nuxt.com).
